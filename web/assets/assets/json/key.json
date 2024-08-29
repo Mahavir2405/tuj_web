@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tujfashion",
+  "private_key_id": "a09f28a27af4f07cc30a267f64c58eda2c68b845",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx83KAKmQWQBZl\nl/tW05Vzuhbrv6LnBdgtruDlybf/7Dv36XlWYT04osGTPsh/JzH710TH3wEJz/kp\nalV3QXEmDGnE7hF1JtZuFySd6YYWWupRvG2S4GfRwrIFMO/5xh05t+3eNJMKwbrG\nFATTSYC4Wc28LWnbk5FopW8Y8sZOYVdcUf636fBPsXLDmZBjn+T1aQBeZTVciEj8\n7GcXyTJ9EeTEwxnNCOireOAooUQ8yFiXL0LXcV0gn/jY8MK8SX3y797JJoSDvHOE\nRfcaDCRz0HqvoJFZ1sWt0TMnLPpGcqRjB7jNWqXGwB3LoOtiBJv2Fpd9QJ8kubEz\n6nfCUGkvAgMBAAECggEACQ9txKwcwKvucOJtT+73BZeB13j5JgK8gDfVwRnQDGGc\npyUJd4KLRDV++rrQKPaGB8HCOmqBSHkriF2CZghY2JNsHBf0SgmzLsxvE55OwN6h\nQf/kIv29Twcak7VO7wxbj+ilXa7PzxwQdkmRiG//8+LtwFkeQFQayDH8Hmy7TZp2\n3LhEYGmVVPZtYJsJku2bAa9VWluyqRzelSUG++hywFTnkYx1grik4iSy27grMMIQ\n6aGrX9a1w4EW+lDSUqCguY4OK0afPlfe0ZVQwQ3CUfSBClrUKMY95j3TJ2gBxx8i\nW+UTqbf1Nb7vUjqHqE/3FA/lRzlCPpbBLuv41r4MeQKBgQDuDACBWJdqELRxrglC\nBfx4qS/AJvT4ePhyDqvnfBtPTTvnJicAw2D6RAtNFjSleIX/2iTuFPPv8iy4nGbP\n4NiKjMfSt3/+m0foo5Sa2l+j3i1jv+dTZhFhE+5a+jp8yBLlL/cKC4INuzm2IYMM\npYIvM7Eg0po0b7TLRyiF9JrSpQKBgQC/XyqpYiwxMpYnxBja8BWfYUdY9hpCD48U\nJOph41iKXHQ/ZOWIM2OCeWmpX8hEB1g0BVxChVh4Fb2FsFNpMb0f3bIWwkTizWx7\noGqHnmbPqbNCzlFHs1zzMBej/N12j9bH0vXY5q8ee4JVZqXhCqPe5GK31gHZW80w\n2JxaSyOoQwKBgCI3P2tYHIt2Uzlz1ojS63M8fkyUTOnaGXvrd/IR+KrxYwbaiQin\nDK1sUmOGKZMPO9OGu4AtKtL2cE8oy+5dV0Ky8ZXsIk2qbC+YM6f+c3jOWp/X2Zw3\nM5BMmRoilX2SFIU028Fp3guzOZxgPMH4mDnIqFEbdGbNF6OQWtbGTeqxAoGBAKbF\n767HYE3LkPG8whBic+V+aCgN6NozJvReK2f9MVb6tU/dxO5KImk9F6jEUQmAAQzs\nsvdBr9SO1agg/r/I2dFgaWfOCyw/609dgBkKIPzOHeuVU14R4GoKOj/uCK3fMkTY\nAunwNyJwbiewmdShaie/jow400mx6AKucqt5mexzAoGBAOsCpD7JZl6uaQibGdqI\nxbsC7Vb1vnqwHnq0xFy8BhERiLtrArS3OEZZaCRldRJ5oaTa+qxKdiX2oSO1hGSZ\nEhLPxBk594t5vgFW8adxNZHCt/8OO9Ij9M8x2q68I07oZpBSdKJOfokMio92L7gT\n8j7aqM8knGghGdH0xEwIu6PJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y802b@tujfashion.iam.gserviceaccount.com",
+  "client_id": "111697032608843008126",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y802b%40tujfashion.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
