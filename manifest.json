@@ -1,11 +1,11 @@
 {
-    "name": "tuj",
-    "short_name": "tuj",
+    "name": "invoicemaker",
+    "short_name": "invoicemaker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Tuj App",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
